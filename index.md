@@ -1,7 +1,7 @@
 ---
 layout: home
+classes: wide
 author_profile: true
-title: "Welcome to My Website"
 ---
 
 
