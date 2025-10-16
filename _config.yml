@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Shelley Zixin Shu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shelley Zixin Shu"
@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Shelley Zixin Shu" # your name
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/bio_img.JPG
   bio              : "A data scientist enthusiastic about bringing AI to benefit healthcare and patient care."
-  location         : "Swizerland or Anywhere in the World"
+  location         : "Swizerland and Anywhere"
   email            :
   links:
     - label: "Email"
