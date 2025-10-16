@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Shelley Zixin Shu" # your name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A data scientist enthusiastic about bringing AI to benefit healthcare and patient care."
+  location         : "Swizerland or Anywhere in the World"
   email            :
   links:
     - label: "Email"
