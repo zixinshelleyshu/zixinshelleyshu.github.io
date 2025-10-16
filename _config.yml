@@ -121,7 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:zixin.shu@unibe.ch"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=fa1q0y8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
